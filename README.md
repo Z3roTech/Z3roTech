@@ -1,4 +1,8 @@
-### Hi there 👋
+**Hi, everyone! 👋🏻**
+
+I'm just evernewbie programmer who want to learn everything and trying to add something new to this world!\
+Now I'm working on some .NET libraries and other shit, that I used on last jobs, that simplifyied enough all of my work.
+
 
 <!--
 **Z3roTech/Z3roTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
