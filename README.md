@@ -1,7 +1,7 @@
 **Hi, everyone! 👋🏻**
 
 I'm just evernewbie programmer who want to learn everything and trying to add something new to this world!\
-Now I'm working on some .NET libraries and other shit, that I used on last jobs, that simplifyied enough all of my work.
+Now I'm working on some .NET libraries and other shit, that simplified all of my work on last jobs.
 
 
 <!--
